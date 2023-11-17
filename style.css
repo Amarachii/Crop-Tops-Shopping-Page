@@ -1,0 +1,25 @@
+*{
+    /* margin: 0; */
+    box-sizing: border-box;
+}
+
+.imagename{
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+    text-align: center;
+}
+
+#topic{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 20px;
+    color: brown;
+}
+
+#all{
+    width: 45%;
+    margin: auto;
+}
